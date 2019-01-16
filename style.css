@@ -4,9 +4,6 @@ header {
 }
 
 
-
-
-
 h1 {
   background-color: #da0303;
   margin: 0;
@@ -46,6 +43,12 @@ h3 {
   font-size: 40px;
 }
 
+input[type="radio"] {
+  height: 30px;
+  width: 50px;
+  
+}
+
 
 .activities {
   font-size: 20px;
@@ -53,8 +56,15 @@ h3 {
 }
 
 .payment {
-  font-size: 50px;
+  font-size: 20px;
 }
 
+button {
+  font-size: 30px;
+}
+
+.bitcoin, .paypal {
+  font-size: 20px;
+}
 
 
